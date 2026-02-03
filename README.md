@@ -1,6 +1,6 @@
 # Welcome👋
 
-### С/++, Programmer,officially work as a full-stack developer and develop my own evil exploits😈 
+### С/++, Programmer,officially work as a full-stack developer and develop my own  exploits
 + 📚Vulnurable Research <img align="right" alt="Enderman" width="180" src=https://github.com/user-attachments/assets/3ec6afa2-097b-4d81-a55b-9cb732b21c4f />
 + 🔑Exploit Development 
 + 👾Malware Research 
